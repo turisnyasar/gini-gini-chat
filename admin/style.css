@@ -1,0 +1,17 @@
+.panel2 {
+	width: 200px;
+	border:1px solid black;
+}
+
+.panel3 {
+	flex: 1;
+	border: 1px solid red;
+}
+
+.menu2 {
+	color: black; text-decoration:none; 
+	display: block; padding: 10px 20px; 
+	box-shadow:1px 1px 0 black;
+	background-color:grey;
+	border-bottom:1px solid white;
+}
